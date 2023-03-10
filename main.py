@@ -535,38 +535,5 @@ def on_mouse_move(pos,rel,buttons):
                 
 
 pgzrun.go()
-"""
-(*args, **kwargs)
 
-
-C:\ProgramData\Anaconda3\Lib\site-packages\pygame
-C:\ProgramData\Anaconda3\Lib\site-packages\pgzero
-
-
-C:/Program Files/Python37/Lib/site-packages/pgzero/__pycache__
-C:/Program Files/Python37/Lib/site-packages/pgzero/data
-
-C:/Program Files/Python37/Lib/site-packages/pgzero/__init__.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/__main__.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/actor.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/animation.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/builtins.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/clock.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/constants.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/game.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/keyboard.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/loaders.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/music.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/ptext.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/rect.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/runner.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/screen.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/soundfmt.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/spellcheck.py
-C:/Program Files/Python37/Lib/site-packages/pgzero/tone.py
-
-
-https://camp.trainocate.co.jp/magazine/python_machine_learning/
-
-"""
 
