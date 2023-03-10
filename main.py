@@ -533,7 +533,6 @@ def on_mouse_move(pos,rel,buttons):
         map.on_mouse_move(pos)
         sek.on_mouse_move(pos)
                 
-
 pgzrun.go()
 
 
