@@ -7,7 +7,7 @@ from enum import Enum
 import math
 from math import sqrt
 from PIL import Image
-from bon import InputBox
+#from bon import InputBox
 import numpy as np
 HEIGHT=600+100
 WIDTH=1200
